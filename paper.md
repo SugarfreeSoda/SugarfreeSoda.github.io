@@ -14,3 +14,6 @@ permalink: /Paper-study/
 
 这里记录学习的文章
 
+## 🧬 计算生物
+
+- [ESM 蛋白模型](/notes/esm/)
