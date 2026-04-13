@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Paper study
-permalink: /Paper-study/
+permalink: /paper-study/
 ---
 
 <div style="padding: 12px 0; border-bottom: 1px solid #ddd; margin-bottom: 24px;">
@@ -12,7 +12,7 @@ permalink: /Paper-study/
 
 # 论文学习
 
-这里记录学习的文章
+这里记录学习的文章。
 
 ## 🧬 计算生物
 
