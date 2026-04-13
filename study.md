@@ -55,7 +55,7 @@ permalink: /study/
   </a>
 
 
-  <a href="/Paper-study/" style="text-decoration: none; color: inherit; display: block;">
+  <a href="/paper-study/" style="text-decoration: none; color: inherit; display: block;">
     <div
       style="background: #f5f7fb; padding: 30px; border-radius: 12px; min-height: 180px; box-sizing: border-box; transition: transform 0.2s ease, box-shadow 0.2s ease;"
       onmouseover="this.style.transform='translateY(-6px)'; this.style.boxShadow='0 8px 22px rgba(0,0,0,0.10)'"
