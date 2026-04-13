@@ -11,10 +11,24 @@ permalink: /notes/esm/
   <span style="font-weight: bold; color: #111;">ESM</span>
 </div>
 
-# 文献阅读笔记
+# ESM
 
-## 🧬 计算生物
+## 论文信息
+- 标题：ESM
+- 方向：蛋白语言模型
 
-### ESM 蛋白模型
+## 在线阅读
 
+<iframe
+  src="/paper/ESM.pdf"
+  width="100%"
+  height="800px"
+  style="border: 1px solid #ddd; border-radius: 8px;"
+>
+</iframe>
+
+## 下载原文
+[点击下载 PDF](/paper/ESM.pdf)
+
+## 阅读笔记
 这里写你的笔记内容。
