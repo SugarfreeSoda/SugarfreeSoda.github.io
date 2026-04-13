@@ -54,4 +54,20 @@ permalink: /study/
     </div>
   </a>
 
+
+  <a href="/Paper-study/" style="text-decoration: none; color: inherit; display: block;">
+    <div
+      style="background: #f5f7fb; padding: 30px; border-radius: 12px; min-height: 180px; box-sizing: border-box; transition: transform 0.2s ease, box-shadow 0.2s ease;"
+      onmouseover="this.style.transform='translateY(-6px)'; this.style.boxShadow='0 8px 22px rgba(0,0,0,0.10)'"
+      onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='none'"
+    >
+      <h2 style="margin-top: 0; margin-bottom: 14px; color: #0b5cad; font-size: 28px;">论文阅读</h2>
+      <p style="margin: 0; color: #444; line-height: 1.7; font-size: 16px;">
+        整理前沿文献的论文学习。
+      </p>
+    </div>
+  </a>
+
+
+
 </div>
