@@ -28,7 +28,7 @@ permalink: /notes/esm/
 </iframe>
 
 ## 下载原文
-[点击下载 PDF](/paper/ESM.pdf)
+[点击下载 PDF](/paper/esm.pdf)
 
 ## 阅读笔记
 这里写你的笔记内容。
