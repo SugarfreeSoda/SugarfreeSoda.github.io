@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Reading
-permalink: /reading/
+title: ESM
+permalink: /notes/esm/
 ---
 
 # 文献阅读笔记
