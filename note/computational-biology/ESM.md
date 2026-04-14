@@ -32,7 +32,7 @@ permalink: /notes/esm/
 
 本模型可以通过蛋白氨基酸序列预测蛋白空间结构，主要分为两个模块。
 
-### 1. ESM-2
+### 1. 隐藏层embedding训练：ESM-2
 
 主要任务是预测蛋白氨基酸序列。
 
@@ -52,7 +52,7 @@ $$
 使用UniRef数据库进行模型训练
 训练完成后ESM-2提供蛋白序列的embedding
 
-### 2）结构预测：ESMfold
+### 2. 结构预测：ESMfold
 <div style="text-align: center;">
   <img src="/images/paper/esm/esm2.png" width="500">
 </div>
