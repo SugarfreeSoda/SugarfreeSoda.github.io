@@ -18,3 +18,4 @@ permalink: /paper-study/
 
 - [ESM 蛋白模型](/notes/esm/)
 - [统计线团模型](/notes/statistical-coil-model/)
+- [MOFA+ 多模态整合](/notes/MOFA+/)
