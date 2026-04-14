@@ -14,7 +14,8 @@ permalink: /notes/esm/
 # ESM
 
 ## 论文信息
-- 标题：ESM
+- 原始链接：https://www.science.org/doi/abs/10.1126/science.ade2574
+- 发表期刊：science
 - 方向：蛋白语言模型
 
 ## 在线阅读
