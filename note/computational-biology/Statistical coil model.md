@@ -11,3 +11,5 @@ permalink: /notes/Statistical coil model/
   <span style="font-weight: bold; color: #111;">Statistical coil model</span>
 </div>
 
+## MOTIVATION:
+构建了一个“统计线团模型（statistical coil model）”，用于刻画蛋白质“未折叠态（unfolded state）”的真实结构，并解释实验中的矛盾现象
