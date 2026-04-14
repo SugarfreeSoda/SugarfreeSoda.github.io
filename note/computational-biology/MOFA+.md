@@ -46,7 +46,7 @@ MOFA+ 构建的统计学模型目的就是将多个modality整合在一起，筛
 模型可视化：
 
 <div style="text-align: center;">
-  <img src="/images/paper/MOFA+/MOFA+1.png" width="500">
+  <img src="/images/paper/MOFA+/MOFA+1.png" width="700">
 </div>
 
 
@@ -119,7 +119,7 @@ $$
 在ARD角度：无论是否选择先验选择此因子，我们都对其进行分布控制，给予所有学习参数一个**超先验$\alpha$**（并非超参数而是贝叶斯学习参数，在后续迭代过程中进行学习更新）
 
 <div style="text-align: center;">
-  <img src="/images/paper/MOFA+/MOFA+2.png" width="500">
+  <img src="/images/paper/MOFA+/MOFA+2.png" width="600">
 </div>
 
 **W先验**
@@ -136,7 +136,7 @@ SVI之于VI十分类似SGD（stochastic gradient descent）和GDM（gradient des
 1. 引入保留动量
 2. 在小批次上收集信息并处理
 <div style="text-align: center;">
-  <img src="/images/paper/MOFA+/MOFA+3.png" width="500">
+  <img src="/images/paper/MOFA+/MOFA+3.png" width="700">
 </div>
 
 其中在这里我们可以看到，我们有两个很基础的假定：
@@ -197,7 +197,7 @@ $$
 
 3.可处理分组数据
 <div style="text-align: center;">
-  <img src="/images/paper/MOFA+/MOFA+5.png" width="500">
+  <img src="/images/paper/MOFA+/MOFA+5.png" width="700">
 </div>
 
 
