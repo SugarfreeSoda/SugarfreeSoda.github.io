@@ -11,7 +11,7 @@ title: Home
 # Zhuofan Dong
 
 ## 👋 About Me
-I am an incoming PhD student in Biostatistics.  
+22 Math BNU --- 26 CBQG(Computational Biology and Quantitative Genes) Harvard  
 My research focuses on:
 - Stable representation learning
 - Distributionally Robust Optimization (DRO)
@@ -36,4 +36,4 @@ An extension of Stable PCA for multi-modal data integration.
 ---
 
 ## 📫 Contact
-Email: your_email@example.com
+Email: 202211999077@mail.bnu.edu.cn
