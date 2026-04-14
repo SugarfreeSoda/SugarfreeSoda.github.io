@@ -17,4 +17,4 @@ permalink: /paper-study/
 ## 🧬 计算生物
 
 - [ESM 蛋白模型](/notes/esm/)
-- [统计线团模型](/notes/Statistical coil model/)
+- [统计线团模型](/notes/statistical-coil-model/)
