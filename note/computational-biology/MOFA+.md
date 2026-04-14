@@ -27,3 +27,24 @@ permalink: /notes/MOFA+/
   style="border: 1px solid #ddd; border-radius: 8px;"
 >
 </iframe>
+
+
+## 1.aiming problem
+
+MOFA（Multi-Omics Factor Analysis） 需要解决的问题是：
+
+对某一个批次sample（通常研究的是single cell），进行了不同modality（view），可理解为通过不同技术手段获取了同一批次的不同features（组学数据），如：
+
+scRNA-seq， DNA methylation， chromatin accessibility
+
+不同的modality所获得的数据都具有不同的生物学意义，导致在进行后续下游分析的时候无法简单整合
+
+MOFA+ 构建的统计学模型目的就是将多个modality整合在一起，筛选出“共同因子“（factor），类似于在多个不同组学数据重进行“降维”，找到一个可以表征所有数据的共同子空间
+
+这可以看作一个，PCA（或因子分析）拓展到多个modality的拓展应用
+
+模型可视化：
+
+
+
+
