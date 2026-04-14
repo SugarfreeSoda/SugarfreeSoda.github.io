@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Statistical coil model
-permalink: /notes/Statistical coil model/
+permalink: /notes/statistical-coil-model/
 ---
 
 <div style="padding: 12px 0; border-bottom: 1px solid #ddd; margin-bottom: 24px;">
