@@ -28,5 +28,14 @@ permalink: /notes/esm/
 </iframe>
 
 
-## 阅读笔记
-这里写你的笔记内容。
+## 模型用途
+本模型可以通过蛋白氨基酸序列预测蛋白空间结构，分为两个模块：
+1）ESM-2
+主要任务：预测蛋白氨基酸序列
+随机mask掉一部分（15%）氨基酸，loss function：
+$$
+L = - \sum_{i \in M} \log p(x_i \mid x_{\text{not in } M})
+$$
+模型用的是mask language model（based on Transformer）
+其中我们在Transformer里面可以通过attention得到不同氨基酸位点的接触概率，构建接触矩阵，捕捉序列中依赖结构（底层逻辑为氨基酸序列存在共进化（co-evolution）现象）
+
