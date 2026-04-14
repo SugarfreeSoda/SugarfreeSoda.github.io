@@ -39,3 +39,19 @@ $$
 模型用的是mask language model（based on Transformer）
 其中我们在Transformer里面可以通过attention得到不同氨基酸位点的接触概率，构建接触矩阵，捕捉序列中依赖结构（底层逻辑为氨基酸序列存在共进化（co-evolution）现象）
 
+<div style="text-align: center;">
+  <img src="/images/paper/esm/esm1.png" width="500">
+</div>
+使用UniRef数据库进行模型训练
+训练完成后ESM-2提供蛋白序列的embedding
+
+2）结构预测：ESMfold
+<div style="text-align: center;">
+  <img src="/images/paper/esm/esm2.png" width="500">
+</div>
+
+
+交互式网址：https://forge.biohub.ai/tools/inference
+
+可以尝试以下蛋白序列（绿色荧光蛋白，GFP）：
+MSKGEELFTGVVPILVELDGDVNGHKFSVSGEGEGDATYGKLTLKFICTTGKLPVPWPTLVTTLTYGVQCFSRYPDHMKQHDFFKSAMPEGYVQERTIFFKDDGNYKTRAEVKFEGDTLVNRIELKGIDFKEDGNILGHKLEYNYNSHNVYIMADKQKNGIKVNFKIRHNIEDGSVQLADHYQQNTPIGDGPVLLPDNHYLSTQSALSKDPNEKRDHMVLLEFVTAAGITHGMDELYK
