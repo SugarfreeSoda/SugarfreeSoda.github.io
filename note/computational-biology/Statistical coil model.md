@@ -50,12 +50,20 @@ permalink: /notes/statistical-coil-model/
 
 蒙特卡洛采样，总能量函数为：
 
+
 $$
-U_{total} = \sum_{i}U(a_i, b_i) +\sum_{i}\delta U(a_i, b_i, a_{i+1}, b_{i+1}) 
-\\
-U(a_i, b_i) = -RT\ln P(a_i, b_i)
-\\
-\delta U(a_i, b_i, a_{i+1}, b_{i+1})  = -RT \ln \frac{P(a_i, b_i, a_{i+1}, b_{i+1}) }{P(a_i, b_i) P( a_{i+1}, b_{i+1})}
+\begin{aligned}
+U_{\text{total}} 
+&= \sum_i U(a_i, b_i) 
++ \sum_i \delta U(a_i, b_i, a_{i+1}, b_{i+1}) \\
+
+U(a_i, b_i) 
+&= -RT \ln P(a_i, b_i) \\
+
+\delta U(a_i, b_i, a_{i+1}, b_{i+1}) 
+&= -RT \ln \frac{P(a_i, b_i, a_{i+1}, b_{i+1})}
+{P(a_i, b_i)P(a_{i+1}, b_{i+1})}
+\end{aligned}
 $$
 
 其中$\delta U(a_i, b_i, a_{i+1}, b_{i+1})$是互信息， $RT$为参数, $a_i$为第 i 个氨基酸类型， $b_i$为构象区域（Ramachandran区域）
